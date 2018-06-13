@@ -1,0 +1,16 @@
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\Service.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\Service.pdb
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\BussinessObjects.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\DataObjects.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\AutoMapper.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\EntityFramework.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\BussinessObjects.pdb
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\DataObjects.pdb
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\DataObjects.dll.config
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\AutoMapper.xml
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\bin\Debug\EntityFramework.xml
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\obj\Debug\Service.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\Service\obj\Debug\Service.pdb
