@@ -1,0 +1,6 @@
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\BussinessObjects\bin\Debug\BussinessObjects.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\BussinessObjects\bin\Debug\BussinessObjects.pdb
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\BussinessObjects\obj\Debug\BussinessObjects.csprojAssemblyReference.cache
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\BussinessObjects\obj\Debug\BussinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\BussinessObjects\obj\Debug\BussinessObjects.dll
+C:\Users\ilona\source\repos\semestr 4\Technologies\PaymentSystem\BussinessObjects\obj\Debug\BussinessObjects.pdb
